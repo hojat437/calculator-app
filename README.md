@@ -19,4 +19,4 @@ A modern calculator built with HTML, CSS and JavaScript.
 
 ## Screenshot
 
-[Calculator Screenshot](assets/screenshot.png)!
+[Calculator Screenshot](assets/Screenshot 1405-02-25 at 19.17.44.png)!
